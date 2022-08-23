@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_0586_mvp_users" sizeclass="112" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Community" value="community"/>
+                <element inactive_on_update="false" label="Developer" value="developer"/>
+            </choice>
+        </element>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+    </element>
+</database>

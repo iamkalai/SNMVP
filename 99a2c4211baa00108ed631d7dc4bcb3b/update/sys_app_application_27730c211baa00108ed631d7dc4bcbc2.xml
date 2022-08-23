@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>App for ServiceNow MVP</description>
+        <device_type>browser</device_type>
+        <hint>App for ServiceNow MVP</hint>
+        <name/>
+        <order/>
+        <roles>x_0586_mvp.mvp user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 09:41:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>27730c211baa00108ed631d7dc4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MVP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MVP" source="x_0586_mvp">99a2c4211baa00108ed631d7dc4bcb3b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MVP">99a2c4211baa00108ed631d7dc4bcb3b</sys_scope>
+        <sys_update_name>sys_app_application_27730c211baa00108ed631d7dc4bcbc2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 09:41:34</sys_updated_on>
+        <title>MVP</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

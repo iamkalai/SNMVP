@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_0586_mvp_users">x_0586_mvp_users</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>USE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 09:40:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1a5388e51baa00108ed631d7dc4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USE</sys_name>
+        <sys_package display_value="MVP" source="x_0586_mvp">99a2c4211baa00108ed631d7dc4bcb3b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MVP">99a2c4211baa00108ed631d7dc4bcb3b</sys_scope>
+        <sys_update_name>sys_number_1a5388e51baa00108ed631d7dc4bcb18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 09:40:56</sys_updated_on>
+    </sys_number>
+</record_update>
